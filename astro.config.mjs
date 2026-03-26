@@ -29,7 +29,7 @@ import { rehypeImageWidth } from "./src/plugins/rehype-image-width.mjs";
 
 // https://astro.build/config
 export default defineConfig({
-	site: siteConfig.siteURL,
+	site: 'https://pianouo.github.io',
 	base: "/",
 	trailingSlash: "always",
 
