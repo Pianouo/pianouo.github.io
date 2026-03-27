@@ -200,6 +200,22 @@ export const siteConfig: SiteConfig = {
 		// }
 	],
 
+
+	font: {
+  		asciiFont: {
+    		fontFamily: "system-ui", // 改为系统字体
+    		fontWeight: "400",
+    		localFonts: [], // 清空本地字体
+    		enableCompress: false, // 关闭字体压缩
+  		},
+  		cjkFont: {
+    		fontFamily: "system-ui", // 改为系统字体
+    		fontWeight: "400",
+    		localFonts: [], // 清空本地字体
+    		enableCompress: false, // 关闭字体压缩
+  		},
+	},
+
 	// 字体配置
 	// font: {
 	// 	// 注意：自定义字体需要在 src/styles/main.css 中引入字体文件
