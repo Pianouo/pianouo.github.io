@@ -1,5 +1,5 @@
 ---
-title: 从面试角度看SQL注入
+title: 从面试角度看XSS漏洞
 published: 2026-04-03
 updated: 2026-04-06
 description: '从面试角度看XSS（内含部分大厂面经）（更新中）'
