@@ -1,8 +1,8 @@
 ---
 title: 从面试角度看SQL注入
 published: 2026-03-26
-updated: 2026-03-26
-description: '从面试角度看SQL注入（内含部分大厂面经）（待更新）'
+updated: 2026-03-29
+description: '从面试角度看SQL注入（内含部分大厂面经）（更新中）'
 image: ''
 tags: [Web Security, SQL Injection, Interview]
 category: 'Security'
